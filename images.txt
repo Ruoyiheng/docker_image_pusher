@@ -5,3 +5,8 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 redis:latest
+mysql:latest
+nacos:latest
+mongodb:latest
+RabbitMQ:latest
+elasticsearch:7.12.1
