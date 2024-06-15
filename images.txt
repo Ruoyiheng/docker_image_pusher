@@ -1,4 +1,2 @@
 nacos:latest
-mongodb:4.4
-RabbitMQ:latest
-elasticsearch:7.12.1
+
