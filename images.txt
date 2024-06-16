@@ -1,1 +1,1 @@
-rocketmq:latest
+mongodb:4.4
