@@ -1,1 +1,1 @@
-pangliang/rocketmq-console-n
+pangliang/rocketmq-console-ng
