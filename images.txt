@@ -1,3 +1,1 @@
-RabbitMQ:latest
-nacos:latest
-mongodb:4.4
+nacos/nacos-server:latest
