@@ -1,1 +1,1 @@
-mongo:4.4
+rocketmqinc/rocketmq:4.4.0
